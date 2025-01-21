@@ -10,4 +10,4 @@ python extract_chromosomes_from_juicebox_image.py example.png
   
 </pre>
 
-By default the images are named with the file name and the chromosomes rank ( example.png_chr_1.png,  example.png_chr_2.png,...)
+By default the images are vertically flipped to correspond to d-genies dot plot layout [https://dgenies.toulouse.inra.fr/] and named with the file name and the chromosomes rank ( example.png_chr_1.png,  example.png_chr_2.png,...)
